@@ -42,6 +42,9 @@
   justify-content: center;
   align-items: center;
 }
+.home-main h2{
+  margin-top: 20px;
+}
 
 .btn-container{
   display: flex;
@@ -176,4 +179,16 @@ form{
 
 .form-group .textarea{
   height: 90px;
+}
+.back-icon{
+  text-align: left;
+  margin-left: 40px;
+  margin-top: 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.rev-heading{
+  text-align: left;
+  margin-bottom: 30px;
+  margin-top: 20px;
 }
